@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hellow secound program
 [A[Bgggg
+=======
+tik tik barsa pani hellow secound program gaduamdum gadumadum
+>>>>>>> b08d3b63511c626b0ee320d43b4a5d05c620730f
